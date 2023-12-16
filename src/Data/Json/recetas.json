@@ -1,0 +1,744 @@
+[
+    {
+        "id": 1,
+        "title": "Tarta de manzana",
+        "description": "postre hecho a base de manzana",
+        "category": "Postres",
+        "images": null,
+        "ingredientes": [
+            {
+                "ingrediente": "manzana",
+                "cantidad": "2"
+            },
+            {
+                "ingrediente": "harina",
+                "cantidad": "200gr"
+            }
+        ],
+        "instrucciones": [
+            {
+                "paso": 1,
+                "detalle": "Precalentar el horno a 60°"
+            },
+            {
+                "paso": 2,
+                "detalle": "batir harina"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Medialunas",
+        "description": "Deliciosas medialunas caseras.",
+        "category": "Postres",
+        "images": null,
+        "ingredientes": [
+            {
+                "ingrediente": "500 gramos de harina de trigo",
+                "cantidad": "1 unidad"
+            },
+            {
+                "ingrediente": "10 gramos de sal",
+                "cantidad": "1 pizca"
+            },
+            {
+                "ingrediente": "75 gramos de azúcar",
+                "cantidad": "1/3 de taza"
+            },
+            {
+                "ingrediente": "10 gramos de levadura seca",
+                "cantidad": "1 sobre"
+            },
+            {
+                "ingrediente": "250 ml de leche tibia",
+                "cantidad": "1 taza"
+            },
+            {
+                "ingrediente": "100 gramos de manteca derretida",
+                "cantidad": "1/2 taza"
+            },
+            {
+                "ingrediente": "1 huevo",
+                "cantidad": "1 unidad"
+            },
+            {
+                "ingrediente": "Azúcar impalpable (glas) para espolvorear",
+                "cantidad": "Al gusto"
+            }
+        ],
+        "instrucciones": [
+            {
+                "paso": 1,
+                "detalle": "Disolver la levadura en la leche tibia y dejar reposar unos minutos hasta que se forme espuma."
+            },
+            {
+                "paso": 2,
+                "detalle": "En un tazón grande, mezclar la harina, la sal y el azúcar."
+            },
+            {
+                "paso": 3,
+                "detalle": "Agregar la levadura disuelta en leche, la manteca derretida y el huevo. Mezclar bien hasta obtener una masa homogénea."
+            },
+            {
+                "paso": 4,
+                "detalle": "Amasar la masa en una superficie enharinada durante unos 10-15 minutos o hasta que esté suave y elástica."
+            },
+            {
+                "paso": 5,
+                "detalle": "Formar una bola con la masa y colocarla en un tazón enharinado. Cubrir con un paño húmedo y dejar reposar en un lugar cálido durante aproximadamente 1 hora o hasta que la masa haya duplicado su tamaño."
+            },
+            {
+                "paso": 6,
+                "detalle": "Precalentar el horno a 180°C."
+            },
+            {
+                "paso": 7,
+                "detalle": "Dividir la masa en porciones pequeñas y formar tiras alargadas. Luego, enrollar cada tira para formar las medialunas."
+            },
+            {
+                "paso": 8,
+                "detalle": "Colocar las medialunas en una bandeja para horno y hornear durante unos 15-20 minutos o hasta que estén doradas."
+            },
+            {
+                "paso": 9,
+                "detalle": "Sacar las medialunas del horno y dejar enfriar."
+            },
+            {
+                "paso": 10,
+                "detalle": "Espolvorear con azúcar impalpable antes de servir."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Torta de Manzana Invertida",
+        "description": "Una torta jugosa y llena de sabor con manzanas caramelizadas en la parte superior.",
+        "category": "Postres",
+        "images": null,
+        "ingredientes": [
+            {
+                "ingrediente": "4 manzanas (preferiblemente variedades como Golden o Fuji)",
+                "cantidad": "Peladas y cortadas en rodajas finas"
+            },
+            {
+                "ingrediente": "200 gramos de azúcar",
+                "cantidad": "1 taza"
+            },
+            {
+                "ingrediente": "100 gramos de mantequilla",
+                "cantidad": "1/2 taza"
+            },
+            {
+                "ingrediente": "2 tazas de harina de trigo",
+                "cantidad": "240 gramos"
+            },
+            {
+                "ingrediente": "2 cucharaditas de levadura en polvo",
+                "cantidad": "10 gramos"
+            },
+            {
+                "ingrediente": "1/2 cucharadita de sal",
+                "cantidad": "2 gramos"
+            },
+            {
+                "ingrediente": "1 taza de azúcar morena",
+                "cantidad": "200 gramos"
+            },
+            {
+                "ingrediente": "2 huevos",
+                "cantidad": "Batidos"
+            },
+            {
+                "ingrediente": "1 cucharadita de extracto de vainilla",
+                "cantidad": "5 ml"
+            },
+            {
+                "ingrediente": "1 taza de leche",
+                "cantidad": "240 ml"
+            }
+        ],
+        "instrucciones": [
+            {
+                "paso": 1,
+                "detalle": "Precalentar el horno a 180°C (350°F)."
+            },
+            {
+                "paso": 2,
+                "detalle": "En un molde para tortas, derretir la mantequilla y esparcir uniformemente sobre el fondo."
+            },
+            {
+                "paso": 3,
+                "detalle": "Espolvorear uniformemente el azúcar sobre la mantequilla en el molde."
+            },
+            {
+                "paso": 4,
+                "detalle": "Colocar las rodajas de manzana sobre el azúcar en una disposición decorativa."
+            },
+            {
+                "paso": 5,
+                "detalle": "En un tazón grande, mezclar la harina, la levadura en polvo y la sal."
+            },
+            {
+                "paso": 6,
+                "detalle": "En otro tazón, batir los huevos y agregar la azúcar morena y la vainilla. Mezclar bien."
+            },
+            {
+                "paso": 7,
+                "detalle": "Agregar la mezcla de harina a la mezcla de huevo alternando con la leche, comenzando y terminando con la harina. Mezclar hasta que esté suave."
+            },
+            {
+                "paso": 8,
+                "detalle": "Verter la masa sobre las manzanas en el molde, asegurándose de cubrir todas las manzanas."
+            },
+            {
+                "paso": 9,
+                "detalle": "Hornear en el horno precalentado durante 40-45 minutos o hasta que al insertar un palillo en el centro salga limpio."
+            },
+            {
+                "paso": 10,
+                "detalle": "Dejar enfriar la torta en el molde durante unos 10 minutos antes de invertirla en un plato para servir."
+            },
+            {
+                "paso": 11,
+                "detalle": "Servir la torta de manzana invertida caliente o a temperatura ambiente. ¡Disfruta!"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Cheesecake Clásico",
+        "description": "Un cheesecake suave y cremoso con una base de galletas y un topping de frutas.",
+        "category": "Postres",
+        "images": null,
+        "ingredientes": [
+            {
+                "ingrediente": "2 tazas de migas de galletas (puedes usar galletas tipo Graham)",
+                "cantidad": "200 gramos"
+            },
+            {
+                "ingrediente": "1/2 taza de mantequilla derretida",
+                "cantidad": "115 gramos"
+            },
+            {
+                "ingrediente": "4 paquetes (32 oz) de queso crema, a temperatura ambiente",
+                "cantidad": "908 gramos"
+            },
+            {
+                "ingrediente": "1 1/4 tazas de azúcar",
+                "cantidad": "250 gramos"
+            },
+            {
+                "ingrediente": "1 cucharadita de extracto de vainilla",
+                "cantidad": "5 ml"
+            },
+            {
+                "ingrediente": "4 huevos",
+                "cantidad": "A temperatura ambiente"
+            },
+            {
+                "ingrediente": "1 taza de crema agria",
+                "cantidad": "240 ml"
+            },
+            {
+                "ingrediente": "Para el topping: Frutas frescas (fresas, arándanos, etc.)",
+                "cantidad": "Al gusto"
+            }
+        ],
+        "instrucciones": [
+            {
+                "paso": 1,
+                "detalle": "Precalentar el horno a 160°C (325°F)."
+            },
+            {
+                "paso": 2,
+                "detalle": "En un tazón, mezclar las migas de galletas y la mantequilla derretida. Presionar la mezcla en el fondo de un molde para cheesecake."
+            },
+            {
+                "paso": 3,
+                "detalle": "En un tazón grande, batir el queso crema hasta que esté suave y cremoso."
+            },
+            {
+                "paso": 4,
+                "detalle": "Agregar el azúcar y el extracto de vainilla al queso crema, y seguir batiendo hasta que esté bien combinado."
+            },
+            {
+                "paso": 5,
+                "detalle": "Agregar los huevos uno por uno, batiendo bien después de cada adición."
+            },
+            {
+                "paso": 6,
+                "detalle": "Incorporar la crema agria y mezclar hasta obtener una mezcla suave."
+            },
+            {
+                "paso": 7,
+                "detalle": "Verter la mezcla sobre la base de galletas en el molde."
+            },
+            {
+                "paso": 8,
+                "detalle": "Hornear en el horno precalentado durante aproximadamente 50-60 minutos, o hasta que el centro esté casi firme."
+            },
+            {
+                "paso": 9,
+                "detalle": "Dejar enfriar a temperatura ambiente y luego refrigerar durante al menos 4 horas o toda la noche."
+            },
+            {
+                "paso": 10,
+                "detalle": "Antes de servir, decorar con frutas frescas en la parte superior."
+            },
+            {
+                "paso": 11,
+                "detalle": "¡Disfruta de tu cheesecake clásico!"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Lemon Pie",
+        "description": "Un pie de limón refrescante con una base de masa quebrada y un relleno suave y cítrico.",
+        "category": "Postres",
+        "images": null,
+        "ingredientes": [
+            {
+                "ingrediente": "1 1/2 tazas de galletas trituradas (puedes usar galletas tipo Graham)",
+                "cantidad": "150 gramos"
+            },
+            {
+                "ingrediente": "1/2 taza de mantequilla derretida",
+                "cantidad": "115 gramos"
+            },
+            {
+                "ingrediente": "1 lata (14 oz) de leche condensada",
+                "cantidad": "397 gramos"
+            },
+            {
+                "ingrediente": "1/2 taza de jugo de limón fresco",
+                "cantidad": "120 ml"
+            },
+            {
+                "ingrediente": "3 yemas de huevo",
+                "cantidad": "A temperatura ambiente"
+            },
+            {
+                "ingrediente": "2 cucharaditas de ralladura de limón",
+                "cantidad": "10 gramos"
+            },
+            {
+                "ingrediente": "Para el merengue (opcional):",
+                "cantidad": "Al gusto"
+            },
+            {
+                "ingrediente": "3 claras de huevo",
+                "cantidad": "A temperatura ambiente"
+            },
+            {
+                "ingrediente": "6 cucharadas de azúcar",
+                "cantidad": "75 gramos"
+            }
+        ],
+        "instrucciones": [
+            {
+                "paso": 1,
+                "detalle": "Precalentar el horno a 180°C (350°F)."
+            },
+            {
+                "paso": 2,
+                "detalle": "En un tazón, mezclar las galletas trituradas y la mantequilla derretida. Presionar la mezcla en el fondo de un molde para pie."
+            },
+            {
+                "paso": 3,
+                "detalle": "En otro tazón, mezclar la leche condensada, el jugo de limón, las yemas de huevo y la ralladura de limón hasta obtener una mezcla suave."
+            },
+            {
+                "paso": 4,
+                "detalle": "Verter la mezcla sobre la base de galletas en el molde para pie."
+            },
+            {
+                "paso": 5,
+                "detalle": "Hornear en el horno precalentado durante aproximadamente 15-20 minutos, o hasta que el centro esté casi firme."
+            },
+            {
+                "paso": 6,
+                "detalle": "Dejar enfriar a temperatura ambiente y luego refrigerar durante al menos 2 horas."
+            },
+            {
+                "paso": 7,
+                "detalle": "Opcional: Para el merengue, batir las claras de huevo hasta que estén espumosas. Agregar gradualmente el azúcar y seguir batiendo hasta obtener picos suaves. Extender sobre el pie y hornear a 180°C (350°F) durante unos 10 minutos, o hasta que el merengue esté dorado."
+            },
+            {
+                "paso": 8,
+                "detalle": "¡Disfruta de tu delicioso Lemon Pie!"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Flan",
+        "description": "Un postre suave y cremoso con caramelo, perfecto para cualquier ocasión.",
+        "category": "Postres",
+        "images": null,
+        "ingredientes": [
+            {
+                "ingrediente": "1 taza de azúcar",
+                "cantidad": "200 gramos"
+            },
+            {
+                "ingrediente": "6 huevos",
+                "cantidad": "A temperatura ambiente"
+            },
+            {
+                "ingrediente": "1 lata (14 oz) de leche condensada",
+                "cantidad": "397 gramos"
+            },
+            {
+                "ingrediente": "2 tazas de leche entera",
+                "cantidad": "480 ml"
+            },
+            {
+                "ingrediente": "1 cucharadita de extracto de vainilla",
+                "cantidad": "5 ml"
+            }
+        ],
+        "instrucciones": [
+            {
+                "paso": 1,
+                "detalle": "Precalentar el horno a 180°C (350°F)."
+            },
+            {
+                "paso": 2,
+                "detalle": "En una sartén, derretir el azúcar a fuego medio hasta obtener un caramelo dorado. Verter el caramelo en el fondo de un molde para flan."
+            },
+            {
+                "paso": 3,
+                "detalle": "En un tazón grande, batir los huevos. Agregar la leche condensada, la leche entera y el extracto de vainilla. Mezclar bien."
+            },
+            {
+                "paso": 4,
+                "detalle": "Verter la mezcla sobre el caramelo en el molde para flan."
+            },
+            {
+                "paso": 5,
+                "detalle": "Colocar el molde para flan dentro de una fuente para horno más grande. Agregar agua caliente a la fuente hasta alcanzar la mitad del molde para flan (baño María)."
+            },
+            {
+                "paso": 6,
+                "detalle": "Hornear en el horno precalentado durante aproximadamente 50-60 minutos, o hasta que al insertar un palillo, este salga limpio."
+            },
+            {
+                "paso": 7,
+                "detalle": "Dejar enfriar a temperatura ambiente y luego refrigerar durante al menos 2 horas o toda la noche."
+            },
+            {
+                "paso": 8,
+                "detalle": "Al servir, pasar un cuchillo alrededor del borde del flan y voltear sobre un plato para que el caramelo quede arriba."
+            },
+            {
+                "paso": 9,
+                "detalle": "¡Disfruta de tu delicioso flan!"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Torta Selva Negra",
+        "description": "Una exquisita combinación de chocolate, cerezas y crema, ¡un clásico que nunca pasa de moda!",
+        "category": "Postres",
+        "images": null,
+        "ingredientes": [
+            {
+                "ingrediente": "2 tazas de harina de trigo",
+                "cantidad": "250 gramos"
+            },
+            {
+                "ingrediente": "1 taza de azúcar",
+                "cantidad": "200 gramos"
+            },
+            {
+                "ingrediente": "1 taza de cacao en polvo",
+                "cantidad": "100 gramos"
+            },
+            {
+                "ingrediente": "1 cucharadita de bicarbonato de sodio",
+                "cantidad": "5 gramos"
+            },
+            {
+                "ingrediente": "1 cucharadita de polvo de hornear",
+                "cantidad": "5 gramos"
+            },
+            {
+                "ingrediente": "1/2 cucharadita de sal",
+                "cantidad": "2.5 gramos"
+            },
+            {
+                "ingrediente": "2 tazas de leche",
+                "cantidad": "480 ml"
+            },
+            {
+                "ingrediente": "1 taza de aceite vegetal",
+                "cantidad": "240 ml"
+            },
+            {
+                "ingrediente": "2 cucharaditas de extracto de vainilla",
+                "cantidad": "10 ml"
+            },
+            {
+                "ingrediente": "4 huevos",
+                "cantidad": "A temperatura ambiente"
+            },
+            {
+                "ingrediente": "1 lata de cerezas en almíbar",
+                "cantidad": "300 gramos"
+            },
+            {
+                "ingrediente": "500 ml de crema para batir",
+                "cantidad": "500 ml"
+            },
+            {
+                "ingrediente": "3 cucharadas de azúcar glas",
+                "cantidad": "45 gramos"
+            },
+            {
+                "ingrediente": "Virutas de chocolate (para decorar)",
+                "cantidad": "Opcional"
+            }
+        ],
+        "instrucciones": [
+            {
+                "paso": 1,
+                "detalle": "Precalentar el horno a 180°C (350°F). Engrasar y enharinar dos moldes para pastel de 9 pulgadas."
+            },
+            {
+                "paso": 2,
+                "detalle": "En un tazón grande, tamizar la harina, el cacao en polvo, el bicarbonato de sodio, el polvo de hornear y la sal. Reservar."
+            },
+            {
+                "paso": 3,
+                "detalle": "En otro tazón, batir el azúcar, el aceite y la vainilla hasta que estén bien combinados. Agregar los huevos uno por uno, batiendo bien después de cada adición."
+            },
+            {
+                "paso": 4,
+                "detalle": "Agregar los ingredientes secos a los ingredientes húmedos en tres partes, alternando con la leche. Comenzar y terminar con los ingredientes secos. Mezclar hasta que estén bien combinados."
+            },
+            {
+                "paso": 5,
+                "detalle": "Dividir la masa entre los moldes preparados y alisar la parte superior. Hornear en el horno precalentado durante 25-30 minutos, o hasta que al insertar un palillo, este salga limpio."
+            },
+            {
+                "paso": 6,
+                "detalle": "Dejar enfriar los pasteles en los moldes durante 10 minutos, luego transferir a una rejilla para enfriar por completo."
+            },
+            {
+                "paso": 7,
+                "detalle": "Mientras tanto, batir la crema para batir y el azúcar glas hasta obtener picos suaves."
+            },
+            {
+                "paso": 8,
+                "detalle": "Una vez que los pasteles estén completamente fríos, cortar cada pastel por la mitad horizontalmente para obtener cuatro capas. Colocar una capa en un plato para pastel y cubrir con una capa de crema batida. Agregar cerezas en almíbar escurridas sobre la crema. Repetir hasta que todas las capas estén apiladas."
+            },
+            {
+                "paso": 9,
+                "detalle": "Cubrir la parte superior y los lados del pastel con crema batida. Decorar con virutas de chocolate si lo deseas."
+            },
+            {
+                "paso": 10,
+                "detalle": "Refrigerar la torta antes de servir para que tome mejor consistencia."
+            },
+            {
+                "paso": 11,
+                "detalle": "¡Disfruta de tu deliciosa Torta Selva Negra!"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Torta de Ricota",
+        "description": "Una torta suave y esponjosa con el delicioso sabor de la ricota.",
+        "category": "Postres",
+        "images": null,
+        "ingredientes": [
+            {
+                "ingrediente": "500 gramos de ricota",
+                "cantidad": "500 gramos"
+            },
+            {
+                "ingrediente": "1 taza de azúcar",
+                "cantidad": "200 gramos"
+            },
+            {
+                "ingrediente": "4 huevos",
+                "cantidad": "A temperatura ambiente"
+            },
+            {
+                "ingrediente": "1 taza de harina de trigo",
+                "cantidad": "120 gramos"
+            },
+            {
+                "ingrediente": "1 cucharadita de polvo de hornear",
+                "cantidad": "5 gramos"
+            },
+            {
+                "ingrediente": "Ralladura de 1 limón",
+                "cantidad": "Opcional"
+            },
+            {
+                "ingrediente": "1 cucharadita de esencia de vainilla",
+                "cantidad": "5 ml"
+            },
+            {
+                "ingrediente": "Mantequilla y harina (para engrasar el molde)",
+                "cantidad": "Cantidades necesarias"
+            },
+            {
+                "ingrediente": "Azúcar glas (para decorar)",
+                "cantidad": "Opcional"
+            }
+        ],
+        "instrucciones": [
+            {
+                "paso": 1,
+                "detalle": "Precalentar el horno a 180°C (350°F). Engrasar y enharinar un molde para torta."
+            },
+            {
+                "paso": 2,
+                "detalle": "En un tazón grande, batir la ricota con el azúcar hasta obtener una mezcla suave y cremosa."
+            },
+            {
+                "paso": 3,
+                "detalle": "Agregar los huevos de uno en uno, batiendo bien después de cada adición. Incorporar la esencia de vainilla y la ralladura de limón (si se usa)."
+            },
+            {
+                "paso": 4,
+                "detalle": "Tamizar la harina y el polvo de hornear sobre la mezcla de ricota. Mezclar con movimientos suaves hasta que esté bien combinado."
+            },
+            {
+                "paso": 5,
+                "detalle": "Verter la masa en el molde preparado y alisar la parte superior."
+            },
+            {
+                "paso": 6,
+                "detalle": "Hornear en el horno precalentado durante 40-45 minutos, o hasta que al insertar un palillo, este salga limpio."
+            },
+            {
+                "paso": 7,
+                "detalle": "Dejar enfriar la torta en el molde durante 10 minutos, luego transferir a una rejilla para enfriar por completo."
+            },
+            {
+                "paso": 8,
+                "detalle": "Una vez que la torta esté completamente fría, desmoldarla y colocarla en un plato para pastel."
+            },
+            {
+                "paso": 9,
+                "detalle": "Opcionalmente, espolvorear con azúcar glas antes de servir."
+            },
+            {
+                "paso": 10,
+                "detalle": "¡Disfruta de tu deliciosa Torta de Ricota!"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Sex on the Beach",
+        "description": "Un cóctel tropical y refrescante con sabores frutales.",
+        "category": "Tragos",
+        "images": null,
+        "ingredientes": [
+            {
+                "ingrediente": "1 1/2 oz (45 ml) de vodka",
+                "cantidad": "45 ml"
+            },
+            {
+                "ingrediente": "1/2 oz (15 ml) de licor de durazno",
+                "cantidad": "15 ml"
+            },
+            {
+                "ingrediente": "1 oz (30 ml) de jugo de arándano",
+                "cantidad": "30 ml"
+            },
+            {
+                "ingrediente": "1 oz (30 ml) de jugo de naranja",
+                "cantidad": "30 ml"
+            },
+            {
+                "ingrediente": "Hielo",
+                "cantidad": "Al gusto"
+            },
+            {
+                "ingrediente": "Rodaja de naranja o cereza (para decorar)",
+                "cantidad": "Opcional"
+            }
+        ],
+        "instrucciones": [
+            {
+                "paso": 1,
+                "detalle": "Llena un vaso alto con hielo."
+            },
+            {
+                "paso": 2,
+                "detalle": "Añade el vodka, el licor de durazno, el jugo de arándano y el jugo de naranja al vaso."
+            },
+            {
+                "paso": 3,
+                "detalle": "Remueve suavemente los ingredientes con una cuchara larga."
+            },
+            {
+                "paso": 4,
+                "detalle": "Decora con una rodaja de naranja o una cereza en la parte superior del vaso."
+            },
+            {
+                "paso": 5,
+                "detalle": "Sirve y disfruta tu refrescante Sex on the Beach."
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Destornillador",
+        "description": "Un cóctel sencillo y refrescante con vodka y jugo de naranja.",
+        "category": "Tragos",
+        "images": null,
+        "ingredientes": [
+            {
+                "ingrediente": "2 oz (60 ml) de vodka",
+                "cantidad": "60 ml"
+            },
+            {
+                "ingrediente": "Jugo de naranja",
+                "cantidad": "Al gusto"
+            },
+            {
+                "ingrediente": "Rodaja de naranja (para decorar)",
+                "cantidad": "Opcional"
+            },
+            {
+                "ingrediente": "Hielo",
+                "cantidad": "Al gusto"
+            }
+        ],
+        "instrucciones": [
+            {
+                "paso": 1,
+                "detalle": "Llena un vaso alto con hielo."
+            },
+            {
+                "paso": 2,
+                "detalle": "Añade el vodka al vaso."
+            },
+            {
+                "paso": 3,
+                "detalle": "Completa con jugo de naranja hasta llenar el vaso."
+            },
+            {
+                "paso": 4,
+                "detalle": "Remueve suavemente los ingredientes con una cuchara larga."
+            },
+            {
+                "paso": 5,
+                "detalle": "Decora con una rodaja de naranja en la parte superior del vaso, si lo deseas."
+            },
+            {
+                "paso": 6,
+                "detalle": "Sirve y disfruta tu refrescante Destornillador."
+            }
+        ]
+    }
+]
