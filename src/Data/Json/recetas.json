@@ -740,5 +740,586 @@
                 "detalle": "Sirve y disfruta tu refrescante Destornillador."
             }
         ]
+    },
+    {
+        "id": 11,
+        "title": "Hamburguesa Casera",
+        "description": "Una deliciosa hamburguesa casera con todos los ingredientes frescos y sabrosos.",
+        "category": "Comida Rapida",
+        "images": null,
+        "ingredientes": [
+            {
+                "ingrediente": "200 g de carne molida (mezcla de res y cerdo)",
+                "cantidad": "200 g"
+            },
+            {
+                "ingrediente": "Pan para hamburguesa",
+                "cantidad": "2 unidades"
+            },
+            {
+                "ingrediente": "Queso cheddar",
+                "cantidad": "2 lonchas"
+            },
+            {
+                "ingrediente": "Lechuga",
+                "cantidad": "Al gusto"
+            },
+            {
+                "ingrediente": "Tomate",
+                "cantidad": "1 unidad, en rodajas"
+            },
+            {
+                "ingrediente": "Cebolla",
+                "cantidad": "1 unidad, en rodajas"
+            },
+            {
+                "ingrediente": "Mayonesa",
+                "cantidad": "Al gusto"
+            },
+            {
+                "ingrediente": "Mostaza",
+                "cantidad": "Al gusto"
+            },
+            {
+                "ingrediente": "Kétchup",
+                "cantidad": "Al gusto"
+            },
+            {
+                "ingrediente": "Sal y pimienta",
+                "cantidad": "Al gusto"
+            },
+            {
+                "ingrediente": "Aceite de oliva",
+                "cantidad": "1 cucharada"
+            }
+        ],
+        "instrucciones": [
+            {
+                "paso": 1,
+                "detalle": "Divide la carne molida en dos porciones y forma dos hamburguesas."
+            },
+            {
+                "paso": 2,
+                "detalle": "Sazona las hamburguesas con sal y pimienta al gusto."
+            },
+            {
+                "paso": 3,
+                "detalle": "En una sartén, calienta el aceite de oliva a fuego medio-alto."
+            },
+            {
+                "paso": 4,
+                "detalle": "Cocina las hamburguesas durante 3-4 minutos por cada lado o hasta que estén bien cocidas."
+            },
+            {
+                "paso": 5,
+                "detalle": "En los últimos minutos de cocción, coloca una loncha de queso cheddar sobre cada hamburguesa para que se derrita."
+            },
+            {
+                "paso": 6,
+                "detalle": "Mientras tanto, corta los panes para hamburguesa por la mitad y tuesta ligeramente en una sartén."
+            },
+            {
+                "paso": 7,
+                "detalle": "Arma las hamburguesas colocando cada hamburguesa en un pan, y agrega lechuga, tomate, cebolla, mayonesa, mostaza y kétchup al gusto."
+            },
+            {
+                "paso": 8,
+                "detalle": "Sirve tus hamburguesas caseras y ¡disfruta!"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Pizza Casera",
+        "description": "Una pizza deliciosa y casera con los ingredientes que más te gusten.",
+        "category": "Comida Rapida",
+        "images": null,
+        "ingredientes": [
+            {
+                "ingrediente": "Masa para pizza",
+                "cantidad": "1 unidad"
+            },
+            {
+                "ingrediente": "Salsa de tomate",
+                "cantidad": "1 taza"
+            },
+            {
+                "ingrediente": "Queso mozzarella rallado",
+                "cantidad": "2 tazas"
+            },
+            {
+                "ingrediente": "Jamón",
+                "cantidad": "100 g, en lonchas"
+            },
+            {
+                "ingrediente": "Champiñones",
+                "cantidad": "1 taza, en rodajas"
+            },
+            {
+                "ingrediente": "Aceitunas negras",
+                "cantidad": "1/2 taza, rodajas"
+            },
+            {
+                "ingrediente": "Tomate",
+                "cantidad": "1 unidad, en rodajas"
+            },
+            {
+                "ingrediente": "Orégano",
+                "cantidad": "1 cucharadita"
+            },
+            {
+                "ingrediente": "Aceite de oliva",
+                "cantidad": "2 cucharadas"
+            },
+            {
+                "ingrediente": "Sal y pimienta",
+                "cantidad": "Al gusto"
+            }
+        ],
+        "instrucciones": [
+            {
+                "paso": 1,
+                "detalle": "Precalienta el horno a 220°C."
+            },
+            {
+                "paso": 2,
+                "detalle": "Estira la masa para pizza en una bandeja o piedra para pizza."
+            },
+            {
+                "paso": 3,
+                "detalle": "Extiende la salsa de tomate sobre la masa de manera uniforme."
+            },
+            {
+                "paso": 4,
+                "detalle": "Esparce el queso mozzarella rallado sobre la salsa de tomate."
+            },
+            {
+                "paso": 5,
+                "detalle": "Distribuye las lonchas de jamón, rodajas de champiñones, aceitunas negras y rodajas de tomate sobre la pizza."
+            },
+            {
+                "paso": 6,
+                "detalle": "Añade sal, pimienta y espolvorea orégano al gusto."
+            },
+            {
+                "paso": 7,
+                "detalle": "Rocía el aceite de oliva sobre la pizza para darle un toque final."
+            },
+            {
+                "paso": 8,
+                "detalle": "Hornea la pizza en el horno precalentado durante 15-20 minutos o hasta que la masa esté dorada y el queso burbujeante."
+            },
+            {
+                "paso": 9,
+                "detalle": "Saca la pizza del horno, corta en porciones y ¡disfruta!"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Asado de Costilla a la Parrilla",
+        "description": "Un asado jugoso y lleno de sabor, perfecto para disfrutar en una parrillada con amigos y familia.",
+        "category": "Parrilla",
+        "images": null,
+        "ingredientes": [
+            {
+                "ingrediente": "Costillas de res",
+                "cantidad": "2 kg"
+            },
+            {
+                "ingrediente": "Sal gruesa",
+                "cantidad": "Al gusto"
+            },
+            {
+                "ingrediente": "Pimienta negra",
+                "cantidad": "Al gusto"
+            },
+            {
+                "ingrediente": "Ajo en polvo",
+                "cantidad": "1 cucharadita"
+            },
+            {
+                "ingrediente": "Pimentón",
+                "cantidad": "1 cucharadita"
+            },
+            {
+                "ingrediente": "Comino molido",
+                "cantidad": "1 cucharadita"
+            },
+            {
+                "ingrediente": "Aceite de oliva",
+                "cantidad": "2 cucharadas"
+            }
+        ],
+        "instrucciones": [
+            {
+                "paso": 1,
+                "detalle": "Precalienta la parrilla a fuego medio-alto."
+            },
+            {
+                "paso": 2,
+                "detalle": "En un tazón, mezcla la sal gruesa, pimienta negra, ajo en polvo, pimentón y comino molido para hacer el adobo."
+            },
+            {
+                "paso": 3,
+                "detalle": "Lava y seca las costillas de res."
+            },
+            {
+                "paso": 4,
+                "detalle": "Unta las costillas con aceite de oliva y espolvorea el adobo por ambos lados, asegurándote de cubrirlas uniformemente."
+            },
+            {
+                "paso": 5,
+                "detalle": "Coloca las costillas en la parrilla caliente y cocina durante 15-20 minutos por cada lado, o hasta que estén doradas y cocidas a tu gusto."
+            },
+            {
+                "paso": 6,
+                "detalle": "Retira las costillas de la parrilla, déjalas reposar unos minutos y luego córtalas en porciones."
+            },
+            {
+                "paso": 7,
+                "detalle": "Sirve las costillas de res a la parrilla y disfruta de un delicioso asado."
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Pollo al Limón y Mostaza a la Parrilla",
+        "description": "Una receta jugosa y llena de sabor para disfrutar de un delicioso pollo a la parrilla con el toque fresco del limón y la intensidad de la mostaza.",
+        "category": "Parrilla",
+        "images": null,
+        "ingredientes": [
+            {
+                "ingrediente": "Pechugas de pollo",
+                "cantidad": "4 unidades"
+            },
+            {
+                "ingrediente": "Limones",
+                "cantidad": "2 (jugo y ralladura)"
+            },
+            {
+                "ingrediente": "Mostaza dijon",
+                "cantidad": "2 cucharadas"
+            },
+            {
+                "ingrediente": "Ajo picado",
+                "cantidad": "2 dientes"
+            },
+            {
+                "ingrediente": "Aceite de oliva",
+                "cantidad": "3 cucharadas"
+            },
+            {
+                "ingrediente": "Sal",
+                "cantidad": "Al gusto"
+            },
+            {
+                "ingrediente": "Pimienta negra",
+                "cantidad": "Al gusto"
+            },
+            {
+                "ingrediente": "Tomillo fresco (opcional)",
+                "cantidad": "1 cucharadita"
+            }
+        ],
+        "instrucciones": [
+            {
+                "paso": 1,
+                "detalle": "Precalienta la parrilla a fuego medio."
+            },
+            {
+                "paso": 2,
+                "detalle": "En un tazón, mezcla el jugo y la ralladura de limón, mostaza dijon, ajo picado, aceite de oliva, sal, pimienta negra y tomillo fresco si lo deseas."
+            },
+            {
+                "paso": 3,
+                "detalle": "Lava y seca las pechugas de pollo."
+            },
+            {
+                "paso": 4,
+                "detalle": "Unta las pechugas con la mezcla preparada, asegurándote de cubrirlas completamente."
+            },
+            {
+                "paso": 5,
+                "detalle": "Coloca las pechugas en la parrilla caliente y cocina durante 6-8 minutos por cada lado, o hasta que estén doradas y bien cocidas."
+            },
+            {
+                "paso": 6,
+                "detalle": "Retira el pollo de la parrilla, déjalo reposar unos minutos y luego córtalo en porciones."
+            },
+            {
+                "paso": 7,
+                "detalle": "Sirve el pollo al limón y mostaza a la parrilla y disfruta de una deliciosa comida."
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Lomo a la Wellington",
+        "description": "Una receta elegante y deliciosa que combina lomo de res, champiñones y hojaldre para crear un plato digno de una ocasión especial.",
+        "category": "Platos Elaborados",
+        "images": null,
+        "ingredientes": [
+            {
+                "ingrediente": "Lomo de res",
+                "cantidad": "1 pieza (aproximadamente 1.5 kg)"
+            },
+            {
+                "ingrediente": "Champiñones",
+                "cantidad": "250 g, picados"
+            },
+            {
+                "ingrediente": "Cebolla",
+                "cantidad": "1, finamente picada"
+            },
+            {
+                "ingrediente": "Ajo",
+                "cantidad": "2 dientes, picados"
+            },
+            {
+                "ingrediente": "Mostaza dijon",
+                "cantidad": "2 cucharadas"
+            },
+            {
+                "ingrediente": "Hojaldre",
+                "cantidad": "1 lámina"
+            },
+            {
+                "ingrediente": "Huevo (para dorar)",
+                "cantidad": "1, batido"
+            },
+            {
+                "ingrediente": "Aceite de oliva",
+                "cantidad": "2 cucharadas"
+            },
+            {
+                "ingrediente": "Sal",
+                "cantidad": "Al gusto"
+            },
+            {
+                "ingrediente": "Pimienta negra",
+                "cantidad": "Al gusto"
+            },
+            {
+                "ingrediente": "Hierbas frescas (romero, tomillo, perejil)",
+                "cantidad": "Al gusto"
+            }
+        ],
+        "instrucciones": [
+            {
+                "paso": 1,
+                "detalle": "Precalienta el horno a 200°C."
+            },
+            {
+                "paso": 2,
+                "detalle": "Sazona el lomo de res con sal y pimienta al gusto."
+            },
+            {
+                "paso": 3,
+                "detalle": "En una sartén, calienta el aceite de oliva y cocina el lomo de res hasta que esté dorado por todos lados. Reserva."
+            },
+            {
+                "paso": 4,
+                "detalle": "En la misma sartén, agrega más aceite si es necesario y saltea la cebolla, el ajo y los champiñones hasta que estén tiernos."
+            },
+            {
+                "paso": 5,
+                "detalle": "Añade mostaza dijon y hierbas frescas picadas a la mezcla de champiñones. Cocina por unos minutos."
+            },
+            {
+                "paso": 6,
+                "detalle": "Estira la lámina de hojaldre y coloca la mezcla de champiñones sobre ella. Coloca el lomo dorado en el centro y envuélvelo con el hojaldre sellando bien los bordes."
+            },
+            {
+                "paso": 7,
+                "detalle": "Pincela el hojaldre con huevo batido para darle un brillo dorado."
+            },
+            {
+                "paso": 8,
+                "detalle": "Coloca el lomo a la Wellington en una bandeja para horno y hornéalo durante 25-30 minutos, o hasta que el hojaldre esté dorado y crujiente."
+            },
+            {
+                "paso": 9,
+                "detalle": "Retira del horno, deja reposar unos minutos y luego corta en porciones. Sirve y disfruta de este plato sofisticado."
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Lomo con Papas Españolas",
+        "description": "Un plato tradicional español que combina lomo de cerdo con papas en una deliciosa mezcla de sabores.",
+        "category": "Platos Elaborados",
+        "images": null,
+        "ingredientes": [
+            {
+                "ingrediente": "Lomo de cerdo",
+                "cantidad": "500 g, en filetes"
+            },
+            {
+                "ingrediente": "Papas",
+                "cantidad": "4, peladas y cortadas en rodajas"
+            },
+            {
+                "ingrediente": "Cebolla",
+                "cantidad": "1, cortada en rodajas"
+            },
+            {
+                "ingrediente": "Ajo",
+                "cantidad": "3 dientes, picados"
+            },
+            {
+                "ingrediente": "Pimiento rojo",
+                "cantidad": "1, cortado en tiras"
+            },
+            {
+                "ingrediente": "Tomate",
+                "cantidad": "1, pelado y picado"
+            },
+            {
+                "ingrediente": "Vino blanco",
+                "cantidad": "1/2 taza"
+            },
+            {
+                "ingrediente": "Aceite de oliva",
+                "cantidad": "3 cucharadas"
+            },
+            {
+                "ingrediente": "Pimentón dulce",
+                "cantidad": "1 cucharadita"
+            },
+            {
+                "ingrediente": "Tomillo",
+                "cantidad": "1 cucharadita"
+            },
+            {
+                "ingrediente": "Perejil",
+                "cantidad": "Al gusto, picado"
+            },
+            {
+                "ingrediente": "Sal",
+                "cantidad": "Al gusto"
+            },
+            {
+                "ingrediente": "Pimienta negra",
+                "cantidad": "Al gusto"
+            }
+        ],
+        "instrucciones": [
+            {
+                "paso": 1,
+                "detalle": "Sazona los filetes de lomo con sal, pimienta y pimentón dulce."
+            },
+            {
+                "paso": 2,
+                "detalle": "En una sartén grande, calienta el aceite de oliva a fuego medio-alto. Agrega los filetes de lomo y cocina hasta que estén dorados por ambos lados. Retira y reserva."
+            },
+            {
+                "paso": 3,
+                "detalle": "En la misma sartén, agrega más aceite si es necesario. Añade las papas y cocina hasta que estén doradas."
+            },
+            {
+                "paso": 4,
+                "detalle": "Agrega la cebolla, el ajo, el pimiento rojo y cocina hasta que las verduras estén tiernas."
+            },
+            {
+                "paso": 5,
+                "detalle": "Incorpora el tomate, el vino blanco, el tomillo y el perejil. Mezcla bien."
+            },
+            {
+                "paso": 6,
+                "detalle": "Vuelve a colocar los filetes de lomo en la sartén y cocina a fuego lento hasta que la carne esté bien cocida."
+            },
+            {
+                "paso": 7,
+                "detalle": "Ajusta la sazón con sal y pimienta al gusto. Sirve caliente y disfruta de este delicioso plato español."
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Costillas de Cerdo a la Barbacoa",
+        "description": "Deliciosas costillas de cerdo marinadas y cocidas a fuego lento con una salsa barbacoa casera.",
+        "category": "Parrilla",
+        "images": null,
+        "ingredientes": [
+            {
+                "ingrediente": "Costillas de cerdo",
+                "cantidad": "1 rack"
+            },
+            {
+                "ingrediente": "Sal",
+                "cantidad": "1 cucharadita"
+            },
+            {
+                "ingrediente": "Pimienta negra",
+                "cantidad": "1/2 cucharadita"
+            },
+            {
+                "ingrediente": "Ajo en polvo",
+                "cantidad": "1 cucharadita"
+            },
+            {
+                "ingrediente": "Cebolla en polvo",
+                "cantidad": "1 cucharadita"
+            },
+            {
+                "ingrediente": "Paprika",
+                "cantidad": "1 cucharadita"
+            },
+            {
+                "ingrediente": "Comino",
+                "cantidad": "1/2 cucharadita"
+            },
+            {
+                "ingrediente": "Salsa barbacoa",
+                "cantidad": "2 tazas"
+            },
+            {
+                "ingrediente": "Miel",
+                "cantidad": "1/4 taza"
+            },
+            {
+                "ingrediente": "Vinagre de manzana",
+                "cantidad": "2 cucharadas"
+            },
+            {
+                "ingrediente": "Mostaza",
+                "cantidad": "1 cucharada"
+            },
+            {
+                "ingrediente": "Salsa Worcestershire",
+                "cantidad": "1 cucharada"
+            }
+        ],
+        "instrucciones": [
+            {
+                "paso": 1,
+                "detalle": "Precalienta la parrilla o el horno a temperatura media-alta."
+            },
+            {
+                "paso": 2,
+                "detalle": "En un tazón pequeño, mezcla la sal, la pimienta negra, el ajo en polvo, la cebolla en polvo, la paprika y el comino para hacer un condimento seco."
+            },
+            {
+                "paso": 3,
+                "detalle": "Sazona las costillas de cerdo con el condimento seco, asegurándote de cubrir todas las superficies."
+            },
+            {
+                "paso": 4,
+                "detalle": "En otro tazón, mezcla la salsa barbacoa, la miel, el vinagre de manzana, la mostaza y la salsa Worcestershire para hacer la salsa barbacoa."
+            },
+            {
+                "paso": 5,
+                "detalle": "Coloca las costillas en la parrilla o en una bandeja para horno y cocina durante 1.5 a 2 horas, volteando y barnizando con la salsa barbacoa cada 30 minutos."
+            },
+            {
+                "paso": 6,
+                "detalle": "Cuando las costillas estén tiernas y bien caramelizadas, retíralas del fuego y deja reposar unos minutos antes de cortarlas en porciones individuales."
+            },
+            {
+                "paso": 7,
+                "detalle": "Sirve las costillas de cerdo a la barbacoa con más salsa barbacoa por encima y disfruta."
+            }
+        ]
     }
 ]

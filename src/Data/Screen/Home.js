@@ -1,11 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
+import Categories from '../../Components/Categories'
 
-const Home = () => {
+const Home = ({navigation, route}) => {
     return (
-        <View>
-            <Text>Home</Text>
-        </View>
+        <>
+            <Categories navigation={navigation} route={route}/>
+        </>
     )
 }
 
