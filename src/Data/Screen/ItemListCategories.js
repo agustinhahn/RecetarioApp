@@ -1,8 +1,8 @@
-import { View, Text, FlatList, StyleSheet} from 'react-native'
+import { FlatList, StyleSheet} from 'react-native'
 import { useState, useEffect } from 'react'
-import allRecetas from '../../Data/Json/recetas.json'
+import allRecetas from '../Json/recetas.json'
 import ProductItem from '../../Components/ProductItem'
-import {colors} from '../../Data/Global/colors'
+import {colors} from '../Global/colors'
 
 const ItemListCategories = ({ navigation, route }) => {
     const { category } = route.params

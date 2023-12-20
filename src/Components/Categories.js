@@ -1,8 +1,8 @@
-import { View, Text, FlatList, StyleSheet } from 'react-native'
+import { FlatList, StyleSheet } from 'react-native'
 import React from 'react'
 import allCategories from '../Data/Json/categorias.json'
 import CategoryItem from './CategoryItem'
-import {colors} from '../Data/Global/colors'
+import { colors } from '../Data/Global/colors'
 
 const Categories = ({navigation, route}) => {
     return (
