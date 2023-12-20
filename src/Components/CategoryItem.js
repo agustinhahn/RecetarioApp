@@ -10,7 +10,6 @@ const CategoryItem = ({ navigation, route, category }) => {
                 </View>
             </Pressable>
         </View>
-
     )
 }
 
