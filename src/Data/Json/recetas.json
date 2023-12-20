@@ -1,28 +1,83 @@
 [
     {
         "id": 1,
-        "title": "Tarta de manzana",
-        "description": "postre hecho a base de manzana",
+        "title": "Torta de Manzana Invertida",
+        "description": "Deliciosa torta de manzana caramelizada en la parte inferior.",
         "category": "Postres",
         "images": null,
         "ingredientes": [
             {
-                "ingrediente": "manzana",
-                "cantidad": "2"
+                "ingrediente": "4 manzanas, peladas, desinfectadas y cortadas en rodajas finas"
             },
             {
-                "ingrediente": "harina",
-                "cantidad": "200gr"
+                "ingrediente": "200 gramos de azúcar"
+            },
+            {
+                "ingrediente": "100 gramos de manteca"
+            },
+            {
+                "ingrediente": "200 gramos de harina de trigo"
+            },
+            {
+                "ingrediente": "2 huevos"
+            },
+            {
+                "ingrediente": "10 gramos de polvo de hornear"
+            },
+            {
+                "ingrediente": "150 ml de leche"
+            },
+            {
+                "ingrediente": "1 cucharadita de esencia de vainilla"
+            },
+            {
+                "ingrediente": "Una pizca de sal"
             }
         ],
         "instrucciones": [
             {
                 "paso": 1,
-                "detalle": "Precalentar el horno a 60°"
+                "detalle": "Precalentar el horno a 180°C."
             },
             {
                 "paso": 2,
-                "detalle": "batir harina"
+                "detalle": "En una sartén, derretir la manteca y agregar el azúcar. Cocinar hasta obtener un caramelo dorado."
+            },
+            {
+                "paso": 3,
+                "detalle": "Verter el caramelo en el fondo de un molde para torta."
+            },
+            {
+                "paso": 4,
+                "detalle": "Colocar las rodajas de manzana sobre el caramelo en el molde, cubriendo todo el fondo."
+            },
+            {
+                "paso": 5,
+                "detalle": "En un tazón, batir los huevos y agregar la esencia de vainilla. Mezclar bien."
+            },
+            {
+                "paso": 6,
+                "detalle": "Agregar la harina tamizada, el polvo de hornear y la pizca de sal a la mezcla de huevos. Mezclar bien."
+            },
+            {
+                "paso": 7,
+                "detalle": "Agregar la leche a la mezcla y batir hasta obtener una masa homogénea."
+            },
+            {
+                "paso": 8,
+                "detalle": "Verter la masa sobre las manzanas en el molde."
+            },
+            {
+                "paso": 9,
+                "detalle": "Hornear durante aproximadamente 35-40 minutos o hasta que al insertar un palillo, este salga limpio."
+            },
+            {
+                "paso": 10,
+                "detalle": "Dejar enfriar la torta antes de desmoldarla."
+            },
+            {
+                "paso": 11,
+                "detalle": "Desmoldar la torta invertida sobre un plato y servir."
             }
         ]
     },
@@ -34,36 +89,28 @@
         "images": null,
         "ingredientes": [
             {
-                "ingrediente": "500 gramos de harina de trigo",
-                "cantidad": "1 unidad"
+                "ingrediente": "500 gramos de harina de trigo"
             },
             {
-                "ingrediente": "10 gramos de sal",
-                "cantidad": "1 pizca"
+                "ingrediente": "10 gramos de sal"
             },
             {
-                "ingrediente": "75 gramos de azúcar",
-                "cantidad": "1/3 de taza"
+                "ingrediente": "75 gramos de azúcar"
             },
             {
-                "ingrediente": "10 gramos de levadura seca",
-                "cantidad": "1 sobre"
+                "ingrediente": "10 gramos de levadura seca"
             },
             {
-                "ingrediente": "250 ml de leche tibia",
-                "cantidad": "1 taza"
+                "ingrediente": "250 ml de leche tibia"
             },
             {
-                "ingrediente": "100 gramos de manteca derretida",
-                "cantidad": "1/2 taza"
+                "ingrediente": "100 gramos de manteca derretida"
             },
             {
-                "ingrediente": "1 huevo",
-                "cantidad": "1 unidad"
+                "ingrediente": "1 huevo"
             },
             {
-                "ingrediente": "Azúcar impalpable (glas) para espolvorear",
-                "cantidad": "Al gusto"
+                "ingrediente": "Azúcar impalpable (glas) para espolvorear a gusto"
             }
         ],
         "instrucciones": [
@@ -111,96 +158,62 @@
     },
     {
         "id": 3,
-        "title": "Torta de Manzana Invertida",
-        "description": "Una torta jugosa y llena de sabor con manzanas caramelizadas en la parte superior.",
+        "title": "Chocotorta",
+        "description": "Irresistible tarta de galletas de chocolate y crema.",
         "category": "Postres",
         "images": null,
         "ingredientes": [
             {
-                "ingrediente": "4 manzanas (preferiblemente variedades como Golden o Fuji)",
-                "cantidad": "Peladas y cortadas en rodajas finas"
+                "ingrediente": "2 paquetes de galletas de chocolate (aproximadamente 400 gramos)"
             },
             {
-                "ingrediente": "200 gramos de azúcar",
-                "cantidad": "1 taza"
+                "ingrediente": "500 gramos de queso crema"
             },
             {
-                "ingrediente": "100 gramos de mantequilla",
-                "cantidad": "1/2 taza"
+                "ingrediente": "200 gramos de azúcar"
             },
             {
-                "ingrediente": "2 tazas de harina de trigo",
-                "cantidad": "240 gramos"
+                "ingrediente": "1 taza de leche"
             },
             {
-                "ingrediente": "2 cucharaditas de levadura en polvo",
-                "cantidad": "10 gramos"
+                "ingrediente": "1 taza de café (puede ser instantáneo)"
             },
             {
-                "ingrediente": "1/2 cucharadita de sal",
-                "cantidad": "2 gramos"
-            },
-            {
-                "ingrediente": "1 taza de azúcar morena",
-                "cantidad": "200 gramos"
-            },
-            {
-                "ingrediente": "2 huevos",
-                "cantidad": "Batidos"
-            },
-            {
-                "ingrediente": "1 cucharadita de extracto de vainilla",
-                "cantidad": "5 ml"
-            },
-            {
-                "ingrediente": "1 taza de leche",
-                "cantidad": "240 ml"
+                "ingrediente": "Cacao en polvo para espolvorear"
             }
         ],
         "instrucciones": [
             {
                 "paso": 1,
-                "detalle": "Precalentar el horno a 180°C (350°F)."
+                "detalle": "En un tazón, mezclar el queso crema con el azúcar hasta obtener una crema suave."
             },
             {
                 "paso": 2,
-                "detalle": "En un molde para tortas, derretir la mantequilla y esparcir uniformemente sobre el fondo."
+                "detalle": "En otro recipiente, mezclar la leche con el café para hacer una mezcla homogénea."
             },
             {
                 "paso": 3,
-                "detalle": "Espolvorear uniformemente el azúcar sobre la mantequilla en el molde."
+                "detalle": "Sumergir rápidamente las galletas de chocolate en la mezcla de leche y café y colocarlas en el fondo de un molde rectangular."
             },
             {
                 "paso": 4,
-                "detalle": "Colocar las rodajas de manzana sobre el azúcar en una disposición decorativa."
+                "detalle": "Cubrir las galletas con una capa de la mezcla de queso crema."
             },
             {
                 "paso": 5,
-                "detalle": "En un tazón grande, mezclar la harina, la levadura en polvo y la sal."
+                "detalle": "Repetir el proceso, alternando capas de galletas y crema, hasta terminar con una capa de crema en la parte superior."
             },
             {
                 "paso": 6,
-                "detalle": "En otro tazón, batir los huevos y agregar la azúcar morena y la vainilla. Mezclar bien."
+                "detalle": "Refrigerar la Chocotorta durante al menos 4 horas o hasta que esté bien firme."
             },
             {
                 "paso": 7,
-                "detalle": "Agregar la mezcla de harina a la mezcla de huevo alternando con la leche, comenzando y terminando con la harina. Mezclar hasta que esté suave."
+                "detalle": "Antes de servir, espolvorear cacao en polvo sobre la parte superior."
             },
             {
                 "paso": 8,
-                "detalle": "Verter la masa sobre las manzanas en el molde, asegurándose de cubrir todas las manzanas."
-            },
-            {
-                "paso": 9,
-                "detalle": "Hornear en el horno precalentado durante 40-45 minutos o hasta que al insertar un palillo en el centro salga limpio."
-            },
-            {
-                "paso": 10,
-                "detalle": "Dejar enfriar la torta en el molde durante unos 10 minutos antes de invertirla en un plato para servir."
-            },
-            {
-                "paso": 11,
-                "detalle": "Servir la torta de manzana invertida caliente o a temperatura ambiente. ¡Disfruta!"
+                "detalle": "Cortar en porciones y disfrutar de esta deliciosa y fácil Chocotorta."
             }
         ]
     },
@@ -212,36 +225,28 @@
         "images": null,
         "ingredientes": [
             {
-                "ingrediente": "2 tazas de migas de galletas (puedes usar galletas tipo Graham)",
-                "cantidad": "200 gramos"
+                "ingrediente": "200 gramos de migas de galletas (puedes usar galletas tipo Graham)"
             },
             {
-                "ingrediente": "1/2 taza de mantequilla derretida",
-                "cantidad": "115 gramos"
+                "ingrediente": "115 gramos de mantequilla derretida"
             },
             {
-                "ingrediente": "4 paquetes (32 oz) de queso crema, a temperatura ambiente",
-                "cantidad": "908 gramos"
+                "ingrediente": "908 gramos de queso crema, a temperatura ambiente"
             },
             {
-                "ingrediente": "1 1/4 tazas de azúcar",
-                "cantidad": "250 gramos"
+                "ingrediente": "250 gramos tazas de azúcar"
             },
             {
-                "ingrediente": "1 cucharadita de extracto de vainilla",
-                "cantidad": "5 ml"
+                "ingrediente": "5 ml de extracto de vainilla"
             },
             {
-                "ingrediente": "4 huevos",
-                "cantidad": "A temperatura ambiente"
+                "ingrediente": "4 huevos temperatura ambiente"
             },
             {
-                "ingrediente": "1 taza de crema agria",
-                "cantidad": "240 ml"
+                "ingrediente": "240 ml de crema agria"
             },
             {
-                "ingrediente": "Para el topping: Frutas frescas (fresas, arándanos, etc.)",
-                "cantidad": "Al gusto"
+                "ingrediente": "Para el topping: Frutas frescas (fresas, arándanos, etc.)"
             }
         ],
         "instrucciones": [
@@ -299,40 +304,31 @@
         "images": null,
         "ingredientes": [
             {
-                "ingrediente": "1 1/2 tazas de galletas trituradas (puedes usar galletas tipo Graham)",
-                "cantidad": "150 gramos"
+                "ingrediente": "150 gramos de galletas trituradas (puedes usar galletas tipo Graham)"
             },
             {
-                "ingrediente": "1/2 taza de mantequilla derretida",
-                "cantidad": "115 gramos"
+                "ingrediente": "115 gramos de mantequilla derretida"
             },
             {
-                "ingrediente": "1 lata (14 oz) de leche condensada",
-                "cantidad": "397 gramos"
+                "ingrediente": "397 gramos de leche condensada"
             },
             {
-                "ingrediente": "1/2 taza de jugo de limón fresco",
-                "cantidad": "120 ml"
+                "ingrediente": "120 ml de jugo de limón fresco"
             },
             {
-                "ingrediente": "3 yemas de huevo",
-                "cantidad": "A temperatura ambiente"
+                "ingrediente": "3 yemas de huevo"
             },
             {
-                "ingrediente": "2 cucharaditas de ralladura de limón",
-                "cantidad": "10 gramos"
+                "ingrediente": "10 gramos de ralladura de limón"
             },
             {
-                "ingrediente": "Para el merengue (opcional):",
-                "cantidad": "Al gusto"
+                "ingrediente": "Para el merengue (opcional):"
             },
             {
-                "ingrediente": "3 claras de huevo",
-                "cantidad": "A temperatura ambiente"
+                "ingrediente": "3 claras de huevo"
             },
             {
-                "ingrediente": "6 cucharadas de azúcar",
-                "cantidad": "75 gramos"
+                "ingrediente": "75 gramos de azúcar"
             }
         ],
         "instrucciones": [
@@ -378,24 +374,19 @@
         "images": null,
         "ingredientes": [
             {
-                "ingrediente": "1 taza de azúcar",
-                "cantidad": "200 gramos"
+                "ingrediente": "200 gramos de azúcar"
             },
             {
-                "ingrediente": "6 huevos",
-                "cantidad": "A temperatura ambiente"
+                "ingrediente": "6 huevos"
             },
             {
-                "ingrediente": "1 lata (14 oz) de leche condensada",
-                "cantidad": "397 gramos"
+                "ingrediente": "397 gramos (14 oz) de leche condensada"
             },
             {
-                "ingrediente": "2 tazas de leche entera",
-                "cantidad": "480 ml"
+                "ingrediente": "480 ml de leche entera"
             },
             {
-                "ingrediente": "1 cucharadita de extracto de vainilla",
-                "cantidad": "5 ml"
+                "ingrediente": "5 ml de extracto de vainilla"
             }
         ],
         "instrucciones": [
@@ -445,60 +436,46 @@
         "images": null,
         "ingredientes": [
             {
-                "ingrediente": "2 tazas de harina de trigo",
-                "cantidad": "250 gramos"
+                "ingrediente": "250 gramos de harina de trigo"
             },
             {
-                "ingrediente": "1 taza de azúcar",
-                "cantidad": "200 gramos"
+                "ingrediente": "200 gramos de azúcar"
             },
             {
-                "ingrediente": "1 taza de cacao en polvo",
-                "cantidad": "100 gramos"
+                "ingrediente": "100 gramos de cacao en polvo"
             },
             {
-                "ingrediente": "1 cucharadita de bicarbonato de sodio",
-                "cantidad": "5 gramos"
+                "ingrediente": "5 gramos de bicarbonato de sodio"
             },
             {
-                "ingrediente": "1 cucharadita de polvo de hornear",
-                "cantidad": "5 gramos"
+                "ingrediente": "5 gramos de polvo de hornear"
             },
             {
-                "ingrediente": "1/2 cucharadita de sal",
-                "cantidad": "2.5 gramos"
+                "ingrediente": "2.5 gramos de sal"
             },
             {
-                "ingrediente": "2 tazas de leche",
-                "cantidad": "480 ml"
+                "ingrediente": "480 ml de leche"
             },
             {
-                "ingrediente": "1 taza de aceite vegetal",
-                "cantidad": "240 ml"
+                "ingrediente": "240 ml de aceite vegetal"
             },
             {
-                "ingrediente": "2 cucharaditas de extracto de vainilla",
-                "cantidad": "10 ml"
+                "ingrediente": "10 ml de extracto de vainilla"
             },
             {
-                "ingrediente": "4 huevos",
-                "cantidad": "A temperatura ambiente"
+                "ingrediente": "4 huevos"
             },
             {
-                "ingrediente": "1 lata de cerezas en almíbar",
-                "cantidad": "300 gramos"
+                "ingrediente": "300 gramos de cerezas en almíbar"
             },
             {
-                "ingrediente": "500 ml de crema para batir",
-                "cantidad": "500 ml"
+                "ingrediente": "500 ml de crema para batir"
             },
             {
-                "ingrediente": "3 cucharadas de azúcar glas",
-                "cantidad": "45 gramos"
+                "ingrediente": "45 gramos de azúcar glas"
             },
             {
-                "ingrediente": "Virutas de chocolate (para decorar)",
-                "cantidad": "Opcional"
+                "ingrediente": "Virutas de chocolate (para decorar)"
             }
         ],
         "instrucciones": [
@@ -556,40 +533,31 @@
         "images": null,
         "ingredientes": [
             {
-                "ingrediente": "500 gramos de ricota",
-                "cantidad": "500 gramos"
+                "ingrediente": "500 gramos de ricota"
             },
             {
-                "ingrediente": "1 taza de azúcar",
-                "cantidad": "200 gramos"
+                "ingrediente": "200 gramos de azúcar"
             },
             {
-                "ingrediente": "4 huevos",
-                "cantidad": "A temperatura ambiente"
+                "ingrediente": "4 huevos"
             },
             {
-                "ingrediente": "1 taza de harina de trigo",
-                "cantidad": "120 gramos"
+                "ingrediente": "120 gramos de harina de trigo"
             },
             {
-                "ingrediente": "1 cucharadita de polvo de hornear",
-                "cantidad": "5 gramos"
+                "ingrediente": "5 gramos de polvo de hornear"
             },
             {
-                "ingrediente": "Ralladura de 1 limón",
-                "cantidad": "Opcional"
+                "ingrediente": "Ralladura de 1 limón"
             },
             {
-                "ingrediente": "1 cucharadita de esencia de vainilla",
-                "cantidad": "5 ml"
+                "ingrediente": "5 ml de esencia de vainilla"
             },
             {
-                "ingrediente": "Mantequilla y harina (para engrasar el molde)",
-                "cantidad": "Cantidades necesarias"
+                "ingrediente": "Mantequilla y harina (para engrasar el molde)"
             },
             {
-                "ingrediente": "Azúcar glas (para decorar)",
-                "cantidad": "Opcional"
+                "ingrediente": "Azúcar glas (para decorar)"
             }
         ],
         "instrucciones": [
@@ -643,28 +611,22 @@
         "images": null,
         "ingredientes": [
             {
-                "ingrediente": "1 1/2 oz (45 ml) de vodka",
-                "cantidad": "45 ml"
+                "ingrediente": "1 1/2 oz (45 ml) de vodka"
             },
             {
-                "ingrediente": "1/2 oz (15 ml) de licor de durazno",
-                "cantidad": "15 ml"
+                "ingrediente": "1/2 oz (15 ml) de licor de durazno"
             },
             {
-                "ingrediente": "1 oz (30 ml) de jugo de arándano",
-                "cantidad": "30 ml"
+                "ingrediente": "1 oz (30 ml) de jugo de arándano"
             },
             {
-                "ingrediente": "1 oz (30 ml) de jugo de naranja",
-                "cantidad": "30 ml"
+                "ingrediente": "1 oz (30 ml) de jugo de naranja"
             },
             {
-                "ingrediente": "Hielo",
-                "cantidad": "Al gusto"
+                "ingrediente": "Hielo"
             },
             {
-                "ingrediente": "Rodaja de naranja o cereza (para decorar)",
-                "cantidad": "Opcional"
+                "ingrediente": "Rodaja de naranja o cereza (para decorar)"
             }
         ],
         "instrucciones": [
@@ -698,20 +660,16 @@
         "images": null,
         "ingredientes": [
             {
-                "ingrediente": "2 oz (60 ml) de vodka",
-                "cantidad": "60 ml"
+                "ingrediente": "2 oz (60 ml) de vodka"
             },
             {
-                "ingrediente": "Jugo de naranja",
-                "cantidad": "Al gusto"
+                "ingrediente": "Jugo de naranja"
             },
             {
-                "ingrediente": "Rodaja de naranja (para decorar)",
-                "cantidad": "Opcional"
+                "ingrediente": "Rodaja de naranja (para decorar)"
             },
             {
-                "ingrediente": "Hielo",
-                "cantidad": "Al gusto"
+                "ingrediente": "Hielo"
             }
         ],
         "instrucciones": [
@@ -749,48 +707,37 @@
         "images": null,
         "ingredientes": [
             {
-                "ingrediente": "200 g de carne molida (mezcla de res y cerdo)",
-                "cantidad": "200 g"
+                "ingrediente": "200 g de carne molida (mezcla de res y cerdo)"
             },
             {
-                "ingrediente": "Pan para hamburguesa",
-                "cantidad": "2 unidades"
+                "ingrediente": "Pan para hamburguesa"
             },
             {
-                "ingrediente": "Queso cheddar",
-                "cantidad": "2 lonchas"
+                "ingrediente": "Queso cheddar"
             },
             {
-                "ingrediente": "Lechuga",
-                "cantidad": "Al gusto"
+                "ingrediente": "Lechuga"
             },
             {
-                "ingrediente": "Tomate",
-                "cantidad": "1 unidad, en rodajas"
+                "ingrediente": "Tomate"
             },
             {
-                "ingrediente": "Cebolla",
-                "cantidad": "1 unidad, en rodajas"
+                "ingrediente": "Cebolla"
             },
             {
-                "ingrediente": "Mayonesa",
-                "cantidad": "Al gusto"
+                "ingrediente": "Mayonesa"
             },
             {
-                "ingrediente": "Mostaza",
-                "cantidad": "Al gusto"
+                "ingrediente": "Mostaza"
             },
             {
-                "ingrediente": "Kétchup",
-                "cantidad": "Al gusto"
+                "ingrediente": "Kétchup"
             },
             {
-                "ingrediente": "Sal y pimienta",
-                "cantidad": "Al gusto"
+                "ingrediente": "Sal y pimienta"
             },
             {
-                "ingrediente": "Aceite de oliva",
-                "cantidad": "1 cucharada"
+                "ingrediente": "Aceite de oliva"
             }
         ],
         "instrucciones": [
@@ -836,44 +783,34 @@
         "images": null,
         "ingredientes": [
             {
-                "ingrediente": "Masa para pizza",
-                "cantidad": "1 unidad"
+                "ingrediente": "Masa para pizza"
             },
             {
-                "ingrediente": "Salsa de tomate",
-                "cantidad": "1 taza"
+                "ingrediente": "Salsa de tomate"
             },
             {
-                "ingrediente": "Queso mozzarella rallado",
-                "cantidad": "2 tazas"
+                "ingrediente": "Queso mozzarella rallado"
             },
             {
-                "ingrediente": "Jamón",
-                "cantidad": "100 g, en lonchas"
+                "ingrediente": "Jamón"
             },
             {
-                "ingrediente": "Champiñones",
-                "cantidad": "1 taza, en rodajas"
+                "ingrediente": "Champiñones"
             },
             {
-                "ingrediente": "Aceitunas negras",
-                "cantidad": "1/2 taza, rodajas"
+                "ingrediente": "Aceitunas negras"
             },
             {
-                "ingrediente": "Tomate",
-                "cantidad": "1 unidad, en rodajas"
+                "ingrediente": "Tomate"
             },
             {
-                "ingrediente": "Orégano",
-                "cantidad": "1 cucharadita"
+                "ingrediente": "Orégano"
             },
             {
-                "ingrediente": "Aceite de oliva",
-                "cantidad": "2 cucharadas"
+                "ingrediente": "Aceite de oliva"
             },
             {
-                "ingrediente": "Sal y pimienta",
-                "cantidad": "Al gusto"
+                "ingrediente": "Sal y pimienta"
             }
         ],
         "instrucciones": [
@@ -923,32 +860,25 @@
         "images": null,
         "ingredientes": [
             {
-                "ingrediente": "Costillas de res",
-                "cantidad": "2 kg"
+                "ingrediente": "Costillas de res"
             },
             {
-                "ingrediente": "Sal gruesa",
-                "cantidad": "Al gusto"
+                "ingrediente": "Sal gruesa"
             },
             {
-                "ingrediente": "Pimienta negra",
-                "cantidad": "Al gusto"
+                "ingrediente": "Pimienta negra"
             },
             {
-                "ingrediente": "Ajo en polvo",
-                "cantidad": "1 cucharadita"
+                "ingrediente": "Ajo en polvo"
             },
             {
-                "ingrediente": "Pimentón",
-                "cantidad": "1 cucharadita"
+                "ingrediente": "Pimentón"
             },
             {
-                "ingrediente": "Comino molido",
-                "cantidad": "1 cucharadita"
+                "ingrediente": "Comino molido"
             },
             {
-                "ingrediente": "Aceite de oliva",
-                "cantidad": "2 cucharadas"
+                "ingrediente": "Aceite de oliva"
             }
         ],
         "instrucciones": [
@@ -990,36 +920,28 @@
         "images": null,
         "ingredientes": [
             {
-                "ingrediente": "Pechugas de pollo",
-                "cantidad": "4 unidades"
+                "ingrediente": "Pechugas de pollo"
             },
             {
-                "ingrediente": "Limones",
-                "cantidad": "2 (jugo y ralladura)"
+                "ingrediente": "Limones"
             },
             {
-                "ingrediente": "Mostaza dijon",
-                "cantidad": "2 cucharadas"
+                "ingrediente": "Mostaza dijon"
             },
             {
-                "ingrediente": "Ajo picado",
-                "cantidad": "2 dientes"
+                "ingrediente": "2 dientes Ajo picado"
             },
             {
-                "ingrediente": "Aceite de oliva",
-                "cantidad": "3 cucharadas"
+                "ingrediente": "Aceite de oliva"
             },
             {
-                "ingrediente": "Sal",
-                "cantidad": "Al gusto"
+                "ingrediente": "Sal"
             },
             {
-                "ingrediente": "Pimienta negra",
-                "cantidad": "Al gusto"
+                "ingrediente": "Pimienta negra"
             },
             {
-                "ingrediente": "Tomillo fresco (opcional)",
-                "cantidad": "1 cucharadita"
+                "ingrediente": "Tomillo fresco (opcional)"
             }
         ],
         "instrucciones": [
@@ -1061,48 +983,37 @@
         "images": null,
         "ingredientes": [
             {
-                "ingrediente": "Lomo de res",
-                "cantidad": "1 pieza (aproximadamente 1.5 kg)"
+                "ingrediente": "Lomo de res (1.5kg aprox)"
             },
             {
-                "ingrediente": "Champiñones",
-                "cantidad": "250 g, picados"
+                "ingrediente": "250 g Champiñones"
             },
             {
-                "ingrediente": "Cebolla",
-                "cantidad": "1, finamente picada"
+                "ingrediente": "Cebolla"
             },
             {
-                "ingrediente": "Ajo",
-                "cantidad": "2 dientes, picados"
+                "ingrediente": "2 dientes Ajo"
             },
             {
-                "ingrediente": "Mostaza dijon",
-                "cantidad": "2 cucharadas"
+                "ingrediente": "Mostaza dijon 2 cucharadas"
             },
             {
-                "ingrediente": "Hojaldre",
-                "cantidad": "1 lámina"
+                "ingrediente": "Hojaldre"
             },
             {
-                "ingrediente": "Huevo (para dorar)",
-                "cantidad": "1, batido"
+                "ingrediente": "1 Huevo (para dorar)"
             },
             {
-                "ingrediente": "Aceite de oliva",
-                "cantidad": "2 cucharadas"
+                "ingrediente": "Aceite de oliva (2 cucharadas)"
             },
             {
-                "ingrediente": "Sal",
-                "cantidad": "Al gusto"
+                "ingrediente": "Sal"
             },
             {
-                "ingrediente": "Pimienta negra",
-                "cantidad": "Al gusto"
+                "ingrediente": "Pimienta negra"
             },
             {
-                "ingrediente": "Hierbas frescas (romero, tomillo, perejil)",
-                "cantidad": "Al gusto"
+                "ingrediente": "Hierbas frescas (romero, tomillo, perejil)"
             }
         ],
         "instrucciones": [
@@ -1152,56 +1063,43 @@
         "images": null,
         "ingredientes": [
             {
-                "ingrediente": "Lomo de cerdo",
-                "cantidad": "500 g, en filetes"
+                "ingrediente": "Lomo de cerdo"
             },
             {
-                "ingrediente": "Papas",
-                "cantidad": "4, peladas y cortadas en rodajas"
+                "ingrediente": "Papas"
             },
             {
-                "ingrediente": "Cebolla",
-                "cantidad": "1, cortada en rodajas"
+                "ingrediente": "Cebolla"
             },
             {
-                "ingrediente": "Ajo",
-                "cantidad": "3 dientes, picados"
+                "ingrediente": "Ajo (3 dientes picados)"
             },
             {
-                "ingrediente": "Pimiento rojo",
-                "cantidad": "1, cortado en tiras"
+                "ingrediente": "Pimiento rojo"
             },
             {
-                "ingrediente": "Tomate",
-                "cantidad": "1, pelado y picado"
+                "ingrediente": "Tomate"
             },
             {
-                "ingrediente": "Vino blanco",
-                "cantidad": "1/2 taza"
+                "ingrediente": "Vino blanco (1/2 taza)"
             },
             {
-                "ingrediente": "Aceite de oliva",
-                "cantidad": "3 cucharadas"
+                "ingrediente": "Aceite de oliva (3 cucharadas)"
             },
             {
-                "ingrediente": "Pimentón dulce",
-                "cantidad": "1 cucharadita"
+                "ingrediente": "Pimentón dulce"
             },
             {
-                "ingrediente": "Tomillo",
-                "cantidad": "1 cucharadita"
+                "ingrediente": "Tomillo"
             },
             {
-                "ingrediente": "Perejil",
-                "cantidad": "Al gusto, picado"
+                "ingrediente": "Perejil"
             },
             {
-                "ingrediente": "Sal",
-                "cantidad": "Al gusto"
+                "ingrediente": "Sal"
             },
             {
-                "ingrediente": "Pimienta negra",
-                "cantidad": "Al gusto"
+                "ingrediente": "Pimienta negra"
             }
         ],
         "instrucciones": [
@@ -1243,52 +1141,40 @@
         "images": null,
         "ingredientes": [
             {
-                "ingrediente": "Costillas de cerdo",
-                "cantidad": "1 rack"
+                "ingrediente": "Costillas de cerdo"
             },
             {
-                "ingrediente": "Sal",
-                "cantidad": "1 cucharadita"
+                "ingrediente": "Sal"
             },
             {
-                "ingrediente": "Pimienta negra",
-                "cantidad": "1/2 cucharadita"
+                "ingrediente": "Pimienta negra (1/2 cucharada)"
             },
             {
-                "ingrediente": "Ajo en polvo",
-                "cantidad": "1 cucharadita"
+                "ingrediente": "Ajo en polvo"
             },
             {
-                "ingrediente": "Cebolla en polvo",
-                "cantidad": "1 cucharadita"
+                "ingrediente": "Cebolla en polvo"
             },
             {
-                "ingrediente": "Paprika",
-                "cantidad": "1 cucharadita"
+                "ingrediente": "Paprika (1 cucharadita)"
             },
             {
-                "ingrediente": "Comino",
-                "cantidad": "1/2 cucharadita"
+                "ingrediente": "Comino (1/2 cucharadita)"
             },
             {
-                "ingrediente": "Salsa barbacoa",
-                "cantidad": "2 tazas"
+                "ingrediente": "Salsa barbacoa"
             },
             {
-                "ingrediente": "Miel",
-                "cantidad": "1/4 taza"
+                "ingrediente": "Miel"
             },
             {
-                "ingrediente": "Vinagre de manzana",
-                "cantidad": "2 cucharadas"
+                "ingrediente": "Vinagre de manzana (2 cucharadas)"
             },
             {
-                "ingrediente": "Mostaza",
-                "cantidad": "1 cucharada"
+                "ingrediente": "Mostaza"
             },
             {
-                "ingrediente": "Salsa Worcestershire",
-                "cantidad": "1 cucharada"
+                "ingrediente": "Salsa Worcestershire"
             }
         ],
         "instrucciones": [

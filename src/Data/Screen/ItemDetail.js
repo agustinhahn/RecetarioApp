@@ -1,10 +1,10 @@
 import { View, Text, StyleSheet, Pressable} from 'react-native'
 import { useState, useEffect } from 'react'
 import allItems from '../Json/recetas.json'
+import {colors} from '../Global/colors'
+import Acordeon from '../../Components/Acordeon'
 
-const ItemDetail = ({ route }) => {
-
-    console.log(route)
+const ItemDetail = ({ route}) => {
     const { id } = route.params
     const [product, setProduct] = useState({})
 
@@ -21,19 +21,14 @@ const ItemDetail = ({ route }) => {
             <View style={styles.content} >
                 {/* <Image
                     style={styles.image}
-                    source={{ uri: product.thumbnail }}
+                    source={{ uri: product.images }}
                     resizeMode='cover'
                 /> */}
                 <View style={styles.containerText}>
                     <Text style={styles.title}>{product.title}</Text>
-                    <Text>{product.description}</Text>
+                    <Text style={styles.description}>{product.description}</Text>
                 </View>
-                <View style={styles.containerPrice}>
-                    <Text style={styles.price}>$ {product.category}</Text>
-                    <Pressable style={styles.buyNow}>
-                        <Text style={styles.buyNowText}>INGREDIENTES</Text>
-                    </Pressable>
-                </View>
+                <Acordeon ingredientes = {product.ingredientes}/>
             </View>
         </View>
     )
@@ -47,23 +42,16 @@ const styles = StyleSheet.create({
         flex: 1,
         justifyContent: "start",
         alignItems: "center",
+        backgroundColor: colors.principal
     },
     content: {
-        width: "100%"
-    },
-    contentLandscape: {
-        flexDirection: "row",
-        alignItems: "center",
-        gap: 15,
-        marginVertical: 15
+        width: "100%",
+        justifyContent:"center",
+        alignItems:"center"
     },
     // image: {
     //     width: "100%",
     //     height: 300
-    // },
-    // imageLandscape: {
-    //     width: 200,
-    //     height: 200
     // },
     goBack: {
         width: "100%",
@@ -71,18 +59,10 @@ const styles = StyleSheet.create({
         padding: 10,
         paddingStart: 40
     },
-    containerTextLandscape: {
-        width: "30%",
-        flexDirection: "column"
-    },
     containerText: {
         gap: 25,
         paddingHorizontal: 5,
         paddingVertical: 25
-    },
-    containerPriceLandscape: {
-        width: "30%",
-        flexDirection: "column"
     },
     containerPrice: {
         width: "100%",
@@ -92,19 +72,19 @@ const styles = StyleSheet.create({
         marginVertical: 10
     },
     title: {
-        fontSize: 20,
-        fontWeight: "bold"
+        fontSize: 25,
+        fontWeight: "bold",
+        color: colors.tituloCard,
+        textAlign:"center"
+    },
+    description:{
+        fontSize: 15,
+        color: colors.textCardItem,
+        textAlign:"center",
+        paddingLeft: 50,
+        paddingRight:50
     },
     price: {
         fontSize: 30
-    },
-    buyNow: {
-        backgroundColor: "green",
-        paddingVertical: 5,
-        paddingHorizontal: 10,
-        borderRadius: 5
-    },
-    buyNowText: {
-        color: "white"
     }
 })

@@ -1,12 +1,38 @@
-import { View, Text, Pressable } from 'react-native'
+import { View, Text, Pressable, StyleSheet } from 'react-native'
 import React from 'react'
+import { colors } from '../Data/Global/colors'
 
-const CategoryItem = ({navigation, route,category}) => {
+const CategoryItem = ({ navigation, route, category }) => {
     return (
-        <Pressable onPress={()=>navigation.navigate("ItemDetail", {category})}>
-            <Text>{category}</Text>
-        </Pressable>
+        <View style={styles.containerPrincipal}>
+            <Pressable style={styles.pressable} onPress={() => navigation.navigate("ItemListCategories", { category })}>
+                <View style={styles.container}>
+                    <Text style={styles.text}>{category}</Text>
+                </View>
+            </Pressable>
+        </View>
+
     )
 }
 
 export default CategoryItem
+
+const styles = StyleSheet.create({
+    pressable: {
+        borderRadius: 10,
+        overflow: 'hidden',
+    },
+    container: {
+        width: "80%",
+        marginHorizontal: "10%",
+        backgroundColor: `${colors.fondoCard}20`,
+        margin: 10,
+        padding: 10,
+        justifyContent: "center",
+        alignItems: "center",
+        borderRadius: 10
+    },
+    text: {
+        color: colors.cardText
+    }
+})
