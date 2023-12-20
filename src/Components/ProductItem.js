@@ -1,5 +1,5 @@
 import { View, Text, Pressable, StyleSheet } from 'react-native'
-import { colors } from '../Data/Global/colors'
+import { colors } from '../Global/colors'
 
 const ProductItem = ({ item, navigation, route }) => {
 

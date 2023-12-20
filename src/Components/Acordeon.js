@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { View, Text, TouchableOpacity, StyleSheet, FlatList } from 'react-native';
 import Collapsible from 'react-native-collapsible';
-import { colors } from '../Data/Global/colors'
+import { colors } from '../Global/colors'
 
 const Acordeon = ({ ingredientes }) => {
     const [isCollapsed, setIsCollapsed] = useState(true);

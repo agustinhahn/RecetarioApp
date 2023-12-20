@@ -1,8 +1,8 @@
 import { View, Text, StyleSheet, Pressable} from 'react-native'
 import { useState, useEffect } from 'react'
-import allItems from '../Json/recetas.json'
+import allItems from '../Data/Json/recetas.json'
 import { colors } from "../Global/colors"
-import Acordeon from '../../Components/Acordeon'
+import Acordeon from '../Components/Acordeon'
 
 const ItemDetail = ({ route}) => {
     const { id } = route.params

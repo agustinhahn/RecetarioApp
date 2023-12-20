@@ -1,6 +1,6 @@
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native'
 import React from 'react'
-import { colors } from "../Data/Global/colors"
+import { colors } from "../Global/colors"
 import { AntDesign } from '@expo/vector-icons';
 
 const Header = ({ title = "Producto", goBack }) => {
