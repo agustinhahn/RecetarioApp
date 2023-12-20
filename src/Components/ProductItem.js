@@ -1,9 +1,7 @@
 import { View, Text, Pressable, StyleSheet } from 'react-native'
-import React from 'react'
 import { colors } from '../Data/Global/colors'
 
 const ProductItem = ({ item, navigation, route }) => {
-
 
     return (
         <Pressable style={styles.container} onPress={() => navigation.navigate("ItemDetailNav", { id: item.id })}>

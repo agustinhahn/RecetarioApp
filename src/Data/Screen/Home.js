@@ -1,4 +1,5 @@
-import Categories from '../Components/Categories'
+import Categories from "../../Components/Categories"
+
 const Home = ({navigation, route}) => {
     return (
         <>
