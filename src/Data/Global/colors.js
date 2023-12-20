@@ -5,5 +5,6 @@ export const colors = {
     cardText: "#EDFFFF",
     tituloCard: "#EDFFDF",
     textCardItem: "#EDFFFF",
-    cardIngredientes: "#818C38"
+    cardIngredientes: "#818C38",
+    backgroundHeader: "#000000"
 }
