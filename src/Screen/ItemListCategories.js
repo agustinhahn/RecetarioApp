@@ -20,7 +20,7 @@ const ItemListCategories = ({ navigation, route }) => {
         <FlatList
             style={styles.container}
             data={products}
-            keyExtractor={item => item}
+            keyExtractor={item => item.id}
             renderItem={({ item }) => <ProductItem item={item} navigation={navigation} route={route} />}
         />
     )
